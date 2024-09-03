@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About NC(J)MO
+title: About Us
 subtitle: meet the team
 ---
 
