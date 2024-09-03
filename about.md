@@ -31,6 +31,12 @@ Aaron is a junior from Charlotte, NC and attends the North Carolina School of Sc
 He is famous for rederiving the circumcenter of a right triangle in his (correct) in-contest solution to [USAMO 2024/5](https://aops.com/community/p30227196), which just so happened to qualify him for the Math Olympiad Summer Program.
 Aaron enjoys playing tennis and piano.
 
+### Jordan Lefkowitz, Test Solver
+
+Jordan Lefkowitz is a college freshman from Connecticut and attends the Massachusetts Institute of Technology.
+You may have heard of him before.
+(Hint: he competed at the International Math Olympiad.)
+
 ### Alex Liu, Test Solver
 
 Alex is a sophomore from Cary, NC and attends Green Level High School.
