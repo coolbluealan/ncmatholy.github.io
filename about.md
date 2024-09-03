@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About NC(J)MO
-subtitle: meet the team!
+subtitle: meet the team
 ---
 
 Backstory...
