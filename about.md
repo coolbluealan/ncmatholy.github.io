@@ -39,7 +39,7 @@ You may have heard of him before.
 
 ### Alex Liu, Test Solver
 
-Alex is a sophomore from Cary, NC and attends Green Level High School.
+Alex is a sophomore from Apex, NC and attends Green Level High School.
 He is living proof that playing anime songs can make you first violin of the Triangle Youth Philharmonic.
 Additionally, he is extraordinarily skilled at tetris.
 
