@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About NCMO
-subtitle: meet the team!
+subtitle: meet the team
 ---
 
 Backstory...
