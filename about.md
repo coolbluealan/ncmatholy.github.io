@@ -6,6 +6,12 @@ subtitle: meet the team
 
 Backstory...
 
+### Grisham Paimagam, Co-Director
+
+Grisham is a sophomore from Charlotte, NC and attends Myer Park High School, where he is the math club head.
+He researches random hypergraphs as enhancers of network resilience.
+Outside of math, Grisham is the top squash player in NC for his age group.
+
 ### Alan Cheng, Problem Writer
 
 Alan is a junior from Cary, NC and attends the North Carolina School of Science and Math.
@@ -18,12 +24,6 @@ Jason is a homeschooled freshman from Durham, NC.
 Before NCMO, he started the [Winter Math Competitions](https://aops.com/community/p29479389) and ran it during middle school.
 He also inspired the creation of the [Washington Math Olympiad](https://aops.com/community/p30801609), testsolved for [Ze Math Competitions](https://benny-w.github.io/ZeMC/), and wrote the power round of the [ASDAN Math Tournament](http://www.explorechina.cn/asdan-maths-tournament/) in 2022.
 Outside of math, Jason enjoys music, robotics, mock trial, teaching, and attempting to write.
-
-### Grisham Paimagam, Problem Writer
-
-Grisham is a sophomore from Charlotte, NC and attends Myer Park High School, where he is the math club head.
-He researches random hypergraphs as enhancers of network resilience.
-Outside of math, Grisham is the top squash player in NC for his age group.
 
 ### Aaron Wang, Problem Writer
 
