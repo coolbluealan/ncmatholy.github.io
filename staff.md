@@ -6,6 +6,7 @@ subtitle: meet the team
 
 ## Problem Writers
 
+
 ### Alan Cheng, Co-Head of Durham Site
 
 Alan is a junior from Cary, NC and attends the North Carolina School of Science and Math.
@@ -32,6 +33,7 @@ He is famous for rederiving the circumcenter of a right triangle in his (correct
 Aaron enjoys playing tennis and piano.
 
 ## Test Solvers
+
 
 ### Jordan Lefkowitz
 
