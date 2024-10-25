@@ -22,10 +22,8 @@ author: North Carolina Math Olympiad
 navbar-links:
   About: "about"
   Staff: "staff"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Archive: "archive"
+  Register Now!: "https://drive.google.com/drive/?pli=1"
 
 ################
 # --- Logo --- #
