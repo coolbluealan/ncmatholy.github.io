@@ -4,8 +4,10 @@ title: Staff
 subtitle: meet the team
 ---
 
-## Problem Writers
+## Leadership
 
+Our leadership comprises expreienced math olympians from NC.
+In addition to fulfilling our leadership roles, we all write problems to be selected for the tests.
 
 ### Alan Cheng, Co-Head of Durham Site
 
@@ -13,7 +15,7 @@ Alan is a junior from Cary, NC and attends the North Carolina School of Science 
 He represented NC at MATHCOUNTS Nationals in 2021 and 2022, placed Top 5 at the NC State Math Contest in 2023 and 2024, and was invited to the Math Olympiad Summer Program (MOP) and Canada / USA Mathcamp in 2024.
 Alan is also a nationally acclaimed rock climber.
 
-### Jason Lee, Founder
+### Jason Lee, Founder and Director
 
 Jason is a homeschooled freshman from Durham, NC.
 Before NCMO, he started the [Winter Math Competitions](https://aops.com/community/p29479389) and ran it during middle school.
@@ -34,6 +36,7 @@ Aaron enjoys playing tennis and piano.
 
 ## Test Solvers
 
+Our test solvers come from many different backgrounds, and include MOPpers, NC vets, WAMO staff, and more.
 
 ### Jordan Lefkowitz
 
@@ -68,7 +71,7 @@ Twice a year, Benny solves an AMC problem on [his youtube channel](https://www.y
 ### Laura Wang
 Laura is a freshman from Washington and attends the Lakeside School. 
 She is a 2024 MATHCOUNTS National Countdown Round Semifinalist and tied for the second highest score at the 2024 Math Prize for Girls.
-Further, Laura writes problems for the Washington Math Olympiad.
+Additionally, Laura writes problems for the Washington Math Olympiad.
 
 ### Oron Wang
 Oron is a sophomore from New Jersey and attends the Phillips Exeter Academy.
