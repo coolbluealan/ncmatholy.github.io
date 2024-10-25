@@ -21,6 +21,7 @@ author: North Carolina Math Olympiad
 
 navbar-links:
   About: "about"
+  Staff: "staff"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
