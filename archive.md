@@ -13,5 +13,5 @@ Kyle is coloring squares on an infinite grid.
 For each square he colors, his *score* is incremented by how many of its \\(8\\) neighbors were previously colored.
 For example, coloring the center square below would increment his score by \\(6\\).
 
-As $n$ increases, his maximum possible score after coloring $n$ squares is always within a constant margin of \\(An-B\sqrt{n}\\).
+As \\(n\\) increases to infinity, his maximum possible score after coloring \\(n\\) squares is always within a constant margin of \\(An-B\sqrt{n}\\).
 Determine, with proof, the ordered pair \\((A,B)\\).
