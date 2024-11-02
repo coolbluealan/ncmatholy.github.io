@@ -12,6 +12,6 @@ Although the difficulty is probably a stretch for the NC(J)MO, it could appear a
 Kyle is coloring squares on an infinite grid.
 For each square he colors, his *score* is incremented by how many of its \\(8\\) neighbors were previously colored.
 For example, coloring the center square below would increment his score by \\(6\\).
-![Diagram](https://ncmatholy.github.io/assets/sample/.png){: .mx-auto.d-block :}
+![Diagram](https://ncmatholy.github.io/assets/img/sample.png){: .mx-auto.d-block :}
 Suppose that Kyle's maximum possible score after coloring \\(n\\) squares is always within a constant margin of \\(An-B\sqrt{n}\\).
 Determine the ordered pair \\((A,B)\\).
