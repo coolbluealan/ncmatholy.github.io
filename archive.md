@@ -2,6 +2,7 @@
 layout: page
 title: Archive
 subtitle: past years
+mathjax: true
 ---
 
 Nothing here yet; in the mean time, try your hand at a sample problem!
