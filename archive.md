@@ -5,8 +5,12 @@ subtitle: past years
 mathjax: true
 ---
 
-Nothing here yet; in the mean time, try your hand at a sample problem!
-The following is Problem 5 from the Washington Math Olympiad (WAMO), written by one of our very own staff members.
+Nothing here yet; in the mean time, try your hand at a couple sample problems!
+First is a classic, which might be placed at NCJMO #3 and NCMO #1: 
+In a galaxy with an odd number of planets, an astronomer is sitting on each planet and observing the planet closest to him. 
+If the distances between the planets are all distinct, prove that there is a planet that no one is observing.
+
+Next is Problem 5 from the Washington Math Olympiad (WAMO), written by one of our very own staff members.
 Although the difficulty is probably a stretch for the NC(J)MO, it could appear as an NCMO #5 if we were feeling mean :P
 
 Kyle is coloring squares on an infinite grid.
