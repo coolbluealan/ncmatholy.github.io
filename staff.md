@@ -18,7 +18,7 @@ Alan is also a nationally acclaimed rock climber.
 ### Jason Lee, Founder and Co-Director
 
 Jason is a homeschooled freshman from Durham, NC.
-Before NCMO, he started the [Winter Math Competitions](https://aops.com/community/p29479389) and ran it during middle school.
+Before NCMO, he started the [Winter Math Competitions](https://aops.com/community/p29479389) and ran it from 2021 to 2024.
 He also inspired the creation of the [Washington Math Olympiad](https://aops.com/community/p30801609), testsolved for [Ze Math Competitions](https://benny-w.github.io/ZeMC/), and wrote the power round of the [ASDAN Math Tournament](http://www.explorechina.cn/asdan-maths-tournament/) in 2022.
 Outside of math, Jason enjoys music, robotics, mock trial, teaching, and attempting to write.
 
