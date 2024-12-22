@@ -78,5 +78,11 @@ Oron is a sophomore from New Jersey and attends the Phillips Exeter Academy.
 His talents include [improvising on the piano](youtube.com/watch?v=x9lE7677ido), [intermediate minesweeper](https://www.youtube.com/watch?v=zteGhJIFqqk), and [postmodern geometry](https://aops.com/community/h3382222).
 He also happened to place 2nd on the USA Team Selection Test Selection Test for IMO 2025.
 
+### Allan Yuan
+
+In 2022, he won MATHCOUNTS Nats.
+In 2023, he made MOP.
+In 2024, he started robbing ankles 😭
+
 ### Brian Zhang
 I don't think he needs any introduction. :)
