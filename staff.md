@@ -15,7 +15,7 @@ Alan is a junior from Cary, NC and attends the North Carolina School of Science 
 He represented NC at MATHCOUNTS Nationals in 2021 and 2022, placed Top 5 at the NC State Math Contest in 2023 and 2024, and was invited to the Math Olympiad Summer Program (MOP) and Canada / USA Mathcamp in 2024.
 Alan is also a nationally acclaimed rock climber.
 
-### Jason Lee, Founder and Co-Director
+### Jason Lee, Co-Director
 
 Jason is a homeschooled freshman from Durham, NC.
 Before NCMO, he started the [Winter Math Competitions](https://aops.com/community/p29479389) and ran it from 2021 to 2024.
