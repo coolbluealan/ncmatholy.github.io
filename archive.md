@@ -7,7 +7,7 @@ mathjax: true
 
 Nothing here yet; in the mean time, try your hand at a couple sample problems!
 First is a classic, which might be placed at NCJMO #3 and NCMO #1: 
-In a galaxy with an odd number of planets, an astronomer is sitting on each planet and observing the planet closest to him. 
+In a galaxy with an odd number of planets, an astronomer is sitting on each planet and observing the planet closest to him (other than his own planet). 
 If the distances between the planets are all distinct, prove that there is a planet that no one is observing.
 
 Next is Problem 5 from the Washington Math Olympiad (WAMO), written by one of our very own staff members.
