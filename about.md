@@ -26,7 +26,3 @@ The NCJMO consists entirely of problems that would be approachable to the genera
 
 There are 5 proof problems with a time limit of 3 hours.
 You are allowed to use writing utensils, erasers, scratch paper, rulers, and compasses.
-
-## I won't go if there isn't pizza.
-
-We are doing our best to acquire sponsors to feed you dinner, and we may even be serving pi :o
